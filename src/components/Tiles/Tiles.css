@@ -1,0 +1,19 @@
+.tile{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    margin: 2px;
+    padding: 0;
+}
+
+.touched-tile{
+    background-color: grey;
+}
+
+.bomb{
+    background-color: red;
+}
+
+.active{
+    background-color: blue;
+}
